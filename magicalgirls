@@ -1,0 +1,25 @@
+{
+  "title": "Magical Girls: Friendship Sonata",
+  "description": "Hidden somewhere in the heart of Shoujo City, the Dark Heart corrupts souls and creates monsters. A city under attack, its only hope rests in the powerful hearts of magical girls!",
+  "artist": "The Players",
+  "author": "The Players",
+  "cover": "https://i.imgur.com/gsdYi7U.png",
+  "chapters": {
+    "1": {
+      "title": "Character Submissions",
+      "volume": "1",
+      "groups": {
+        "Various": "/proxy/api/imgur/chapter/faUhCKC/"
+      },
+      "last_updated": "1616368746"
+    }, 
+ "2": {
+      "title": "Monsters",
+      "volume": "2",
+      "groups": {
+        "Various": "/proxy/api/imgur/chapter/dTbA6bx/"
+      },
+      "last_updated": "1616368746"
+    }
+}
+}
