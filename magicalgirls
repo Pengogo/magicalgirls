@@ -13,11 +13,19 @@
       },
       "last_updated": "1616368746"
     }, 
- "2": {
+    "2": {
       "title": "Monsters",
       "volume": "2",
       "groups": {
         "Various": "/proxy/api/imgur/chapter/dTbA6bx/"
+      },
+      "last_updated": "1616368746"
+    }, 
+ "3": {
+      "title": "Round 1",
+      "volume": "3",
+      "groups": {
+        "Various": "/proxy/api/imgur/chapter/FlgJLEm/"
       },
       "last_updated": "1616368746"
     }
